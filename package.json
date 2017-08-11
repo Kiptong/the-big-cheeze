@@ -1,0 +1,20 @@
+{
+  "name": "the-big-cheeze",
+  "version": "1.0.0",
+  "description": "A web app for The Big Cheeze food truck to market customers and manage social media content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiptong/the-big-cheeze.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiptong/the-big-cheeze/issues"
+  },
+  "homepage": "https://github.com/Kiptong/the-big-cheeze#readme"
+}
