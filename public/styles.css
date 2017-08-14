@@ -1,0 +1,9 @@
+#jumbo {
+  height: 35em;
+  padding-top: 9em;
+  margin-bottom: 2em;
+  background-image: url(./images/BigCheeze_streak_light.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+}
