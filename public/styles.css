@@ -4,11 +4,16 @@ body {
 
 #jumbo {
   height: 35em;
-  padding-top: 9em;
-  margin-bottom: 2em;
+  padding-top: 12em;
   background: rgba(0, 0, 0, 0.5);
   background-image: url(./images/BigCheeze_streak_light.png);
   background-repeat: no-repeat;
   background-size: cover;
   color: #ffdb88;
+}
+
+#cheezetweets {
+  padding-top: 12em;
+  margin-top: 0px;
+  background-color: #272727;
 }
